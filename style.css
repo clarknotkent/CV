@@ -137,7 +137,7 @@ body
 {
     position: relative;
     background: #fff;
-    padding: 40px;
+    padding: 60px;
 }
 .about
 {
@@ -187,4 +187,9 @@ p
     text-transform: uppercase;
     color: #2a7da2;
     font-size: 16px;
+}
+
+.about .box .text h6
+{
+    color:#047eb6;
 }
